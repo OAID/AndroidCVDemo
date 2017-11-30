@@ -5,7 +5,7 @@ It is an Android project that is maintained by OPEN AI LAB,it uses[ CVgesture](h
  [posetrack user_manual](https://github.com/OAID/AndroidCVDemo/blob/master/posetrack%20user_manual.pdf)
  
 #  Details
- this project combines CVGesture  and kcf-dsst track in Android with opencv android SDK.
+ This project combines CVGesture  and kcf-dsst track in Android with opencv android SDK.
  
 # Release History
   
