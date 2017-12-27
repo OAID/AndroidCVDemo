@@ -184,6 +184,8 @@ int main(int argc, char* argv[]){
 	}
 	// resultsFile.close();
 
+  delete &tracker;
+
   return 0;
 
 }
